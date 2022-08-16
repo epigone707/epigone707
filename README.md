@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I am Yanfu Guo, a new Master student of Computer Science at [UMich](https://umich.edu/).
+
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=epigone707&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
