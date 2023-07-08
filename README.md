@@ -1,22 +1,15 @@
-### Hi there 👋
 
-<!--
-**epigone707/epigone707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🌱 I am Yanfu, a Master student of Computer Science at [UMich](https://umich.edu/).
-
+<div align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff8f1c&width=435&lines=If+you+want+to+be+happy%2C+be." alt="Typing SVG" /></a>
+</div>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=epigone707&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img alt="GitHub User's stars" src="https://komarev.com/ghpvc/?username=epigone707&style=for-the-badge">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/epigone707?style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/epigone707?style=for-the-badge">
 </p>
+
+
+<div align="center">
+<img align="center" src="https://streak-stats.demolab.com?user=epigone707&theme=flag-india&hide_border=true)"/>
+
+</div>
