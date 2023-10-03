@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="https://epigone707.github.io/about/"><img alt="Personal Website" src="https://img.shields.io/badge/Clcik Here To Visit-My Website epigone707.github.io!-ff8f1c?style=for-the-badge"></a>
+<a target="_blank" href="https://epigone707.github.io/about/"><img alt="Personal Website" src="https://img.shields.io/badge/Clcik Here To Visit-My Website epigone707.github.io!-ff8f1c?style=for-the-badge"></a>
 </p>
 
 <div align="center">
